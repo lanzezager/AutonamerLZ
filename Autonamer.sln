@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Autonamer", "Autonamer\Autonamer.csproj", "{977C893D-227C-49EC-B44B-C1122E268BA7}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Anime_Namer_LZ", "Anime_Namer_LZ\Anime_Namer_LZ.vdproj", "{11C84A1E-335A-4DAC-B123-2770A2FBDC61}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{977C893D-227C-49EC-B44B-C1122E268BA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{977C893D-227C-49EC-B44B-C1122E268BA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{977C893D-227C-49EC-B44B-C1122E268BA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{977C893D-227C-49EC-B44B-C1122E268BA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11C84A1E-335A-4DAC-B123-2770A2FBDC61}.Debug|Any CPU.ActiveCfg = Debug
+		{11C84A1E-335A-4DAC-B123-2770A2FBDC61}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
